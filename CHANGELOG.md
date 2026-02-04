@@ -138,3 +138,8 @@ If a change:
 It does not exist.
 
 The constitution only changes when humans say so — explicitly.
+
+
+v0.0.0 — 2026-02-03
+Locked constitutional baseline
+Commit: 3d67435

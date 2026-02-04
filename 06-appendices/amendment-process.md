@@ -144,6 +144,18 @@ The burden of proof lies with the proposer.
 
 ⸻
 
+	9.	Human Standing in Governance
+
+Participation in constitutional governance is exercised by humans acting in their own right.
+
+Individuals may participate while affiliated with organizations, collectives, or institutions, but no entity may substitute for, compel, or override human judgment.
+
+No governance mechanism may require participants to act against their conscience, standing, or understanding as a condition of participation.
+
+Legitimacy flows from human participation, not organizational endorsement.
+
+⸻
+
 End of Amendment Process
 
 ⸻
