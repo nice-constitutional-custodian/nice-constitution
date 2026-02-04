@@ -145,7 +145,7 @@ Locked constitutional baseline
 Commit: 3d67435
 
 ## v0.1.0 — 2026-02-04
-Commit: 100644
+Commit: 2bde09a
 
 Added:
 - Inherited infrastructure declarations
