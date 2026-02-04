@@ -143,3 +143,11 @@ The constitution only changes when humans say so — explicitly.
 v0.0.0 — 2026-02-03
 Locked constitutional baseline
 Commit: 3d67435
+
+## v0.1.0 — 2026-02-04
+Commit: 100644
+
+Added:
+- Inherited infrastructure declarations
+- Physical compute, transport, and substrate constraints
+- Constitutional clarification of inherited layers
