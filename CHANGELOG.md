@@ -151,3 +151,16 @@ Added:
 - Inherited infrastructure declarations
 - Physical compute, transport, and substrate constraints
 - Constitutional clarification of inherited layers
+
+## v0.1.1 — 2026-02-19
+Commit: 5e242e5
+
+Added:
+- Purpose and Scope (00-introduction)
+- Reading Guide (00-introduction)
+- Misreadings and Non-Goals (00-introduction)
+
+Clarified:
+- Constitutional purpose, scope, and interpretive posture
+- Non-delegation and human-origin-of-authority principles
+- Normative status of the Constitution relative to implementations
