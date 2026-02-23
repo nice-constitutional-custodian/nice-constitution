@@ -164,3 +164,9 @@ Clarified:
 - Constitutional purpose, scope, and interpretive posture
 - Non-delegation and human-origin-of-authority principles
 - Normative status of the Constitution relative to implementations
+
+## v0.1.2 — 2026-02-23
+Commit: cad351a
+
+Clarified:
+- visual that should be referenced
