@@ -21,7 +21,7 @@ Normative boundary diagram
 
 This diagram depicts the Personal Trust Boundary as defined in this document. It illustrates constitutional roles and constraints only — not platform implementations.
 
-/07-visuals/declaration-evaluation-eligibility-boundary.png
+/07-visuals/personal-trust-boundary.png
 
 ⸻
 
