@@ -170,3 +170,9 @@ Commit: cad351a
 
 Clarified:
 - visual that should be referenced
+
+## v0.1.3 — 2026-02-23
+Commit: b64a5a0
+
+Added:
+- Constitutional license
