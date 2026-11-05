@@ -74,3 +74,7 @@ Deck queue is now CLEAN for the image pass.
 ## ADDENDUM — 'knows their place' ruled INTENTIONAL (2026-11-05, Peter)
 
 "Agents that knows their place." ×2 — RESOLVED as INTENTIONAL (Peter, 2026-11-05): doctrine ruling attached — The Lenses, in modern parlance, would typically be called "agents"; in implementation they are SpiralOS FACETS, not given agency; PERS-LENS / Sensemaking Assistance = a category of BOUNDED ASSISTANTS which will read like "agents" — with a decidedly different spin on what an agent is and how they mind their manners. The phrase stays as voice.
+
+## CORRECTION — 'knows their place' (2026-11-05, RE-PIN #3)
+
+Peter clarifies: the singular/plural mix was NOT intentional (the prior entry's flourish overstated); grammar corrected to 'know their place'. THE DOCTRINE STANDS UNCHANGED: the Lenses read like agents in modern parlance but are SpiralOS facets — not given agency; PERS-LENS = bounded assistants. Also settled in this revision: case convention = lowercase ('PeelPack contents') — the Contents/contents flag is closed. RE-PIN #3 recorded.
