@@ -202,3 +202,21 @@ Hostile Reader Check (binary, all NO):
 - Blurs evaluation and execution? NO
 - Creates hidden gatekeeping? NO
 - Introduces automation of human judgment? NO
+## v0.1.5 - 2026-11-05
+
+MINOR - TIX vocabulary + standards enumeration + constitutional anchor convention (non-breaking)
+
+Amendment Summary:
+
+What is changing:
+- Glossary gains TIX (Trusted Interchange) and TIX-MEDIATION.
+- The 04-standards indexes enumerate the concrete Role/Interface Standard labels of the platform system (38 labels; NICE-RS-TIX-* namespace per RULING A).
+- Constitutional anchor-slug convention established (06-appendices/constitutional-anchors.md; five seed anchors), enabling standards to bind constitutional text by reference.
+
+Why:
+- RULING A (2026-11-05, Peter): TIX - Trusted Interchange; the X = the act of mutually giving and receiving. Enables standards conformance to cite constitutional text without paraphrase.
+
+Classification:
+- MINOR. Registry and clarification; adds no obligations, changes no meaning, reduces no protections, moves no boundary. Hostile Reader Check: all NO.
+
+Deferred to walkthrough rulings (NOT in this amendment): plane-2 boundary naming harmonization; COMMONS-TIX-ONRAMP vs COMMONS-TIX-IFACE label decision.

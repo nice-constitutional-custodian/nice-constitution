@@ -130,3 +130,13 @@ Must not:
 ⸻
 
 🔒 v0 LOCKED
+
+⌷
+
+Enumerated Role Standards (v0.1.5)
+
+Registry listing - the concrete Role Standard labels of the platform system. Enumerating adds no obligations; specifications live in the standards repository and conform to the constitution as versioned here.
+
+- PERS: NICE-RS-PERS-TRUST, NICE-RS-PERS-GATE, NICE-RS-PERS-HOME, NICE-RS-PERS-HARBOR, NICE-RS-PERS-VAULT, NICE-RS-PERS-LENS
+- TIX: NICE-RS-TIX-MED, NICE-RS-TIX-REGISTRY, NICE-RS-TIX-VERIFIER, NICE-RS-TIX-MATCHER, NICE-RS-TIX-RELAY, NICE-RS-TIX-JOURNAL
+- COMMONS: NICE-RS-COMN-GOV, NICE-RS-COMN-GATE, NICE-RS-COMN-RULES, NICE-RS-COMN-RUNTIME, NICE-RS-COMN-JOURNAL, NICE-RS-COMN-TIX
