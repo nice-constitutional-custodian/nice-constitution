@@ -12,8 +12,8 @@ Pinned revisions (walkthrough reference set, 2026-11-05):
 ## Pinned hashes
 
 ```
-f6e164cbc0f7f66a8071f32be6331a61475e1cda25dd3877fbb8a4b372416813  NICE - Agency & Standing for Humans.pdf
-8fb3bc6f6aca47d2cdf39dec1c7b59bdd9f05a3d9e4b1359f8bc8261b4793234  NICE - User Journey Map.pptx
+21712da3d79bc33862d57afee0864aa2b6b23e2eec6189ed646b6a000c6a6ab0  NICE - Agency & Standing for Humans.pdf
+68d369ec3873d510a762a1094a576ad35e1b731de6badb780df9114e5fd6959c  NICE - Agency & Standing for Humans.pptx
 ```
 
 Sources live at /home/user/peter/NICE/NICE Strategy/Architecture/ (working copies).

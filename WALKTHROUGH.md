@@ -37,3 +37,20 @@ F. Replacement images list (Peter knows in advance).
 - Gloss guard (constitutional): the interchange is trusted-OF (participants attested), never trustING — it verifies and records; never vouches, never decides, never holds, never acts unilaterally.
 - Deck slide 12 ("IX - Bounded Apps Interchange"): top plane description + boxed MEDIATION line both carry copied COMMONS text — replaced per convention (text delivered 2026-11-05).
 - Constitution: TIX gloss + label enumeration enter with the next amendment family (post-v0.1.4 merge).
+
+## GUIDE RE-PIN — deck revision updated by Peter (2026-11-05 ~21:53 pptx / 21:53 pdf)
+
+Peter migrated the expresser deck to TIX on his side. Diff verdict vs the previous pinned revision: **clean, complete migration** —
+- All `IX-*` labels → `TIX-*`; `COMMONS-IX-*` → `COMMONS-TIX-*`; `NICE-IS-PERS-IX` → `NICE-IS-PERS-TIX`; `NICE-IS-COMN-IX-CONTEXT` → `NICE-IS-COMN-TIX-CONTEXT`.
+- Journal receipt labels normalized to `NICE-IS-TIX-JOURNAL-*` (IS-prefix added — canonical).
+- Slide-12 adopted the delivered convention text nearly verbatim (top description + boxed MEDIATION line); copied COMMONS text gone; titles read `TIX — Trusted Interchange`. `downtream` and `authority, standing, or standing` defects fixed.
+
+Still queued (verified in this revision):
+1. TIX slide bottom caption still reads "These implementation platforms realize COMMONS-GOVERNANCE constraints." (COMMONS slide's own instance is legitimate) — replace with TIX-MEDIATION wording (delivered 2026-11-05). The TIX-MEDIATION prose sentence on that slide remains correct.
+2. "Participation Interface to Trusted Interchange (TX)" → should read (TIX).
+3. Typos: "Consititutional" ×1, "Contitutional" ×1, "Agents that knows their place" ×2.
+4. "Bounded" word-instances — juded contexts: LEGITIMATE (keep): "Bounded Owner-Hosted Resources" ×2 (PERS-HARBOR description; boundedness of resources, not the retired noun); TO REPLACE: "…execute Bounded Applications." (Governed Coordination slide, L≈468) and "never executes Bounded Apps" (Non-Authority Guardrails, L≈693) — Peter wording pending (candidates: "application contents" / "PeelPack contents").
+
+Process note: commit 096e15d carried only the re-pinned PDF (a path slip interrupted the pptx/hashes/ledger writes); this entry completes the re-pin.
+
+Pinned now (working set):
