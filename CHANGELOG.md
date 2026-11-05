@@ -176,3 +176,29 @@ Commit: b64a5a0
 
 Added:
 - Constitutional license
+
+## v0.1.4 — 2026-11-05
+
+MINOR — Terminology clarification: bApp → PeelPack (non-breaking, non-semantic)
+
+Amendment Summary:
+
+What is changing:
+- All constitutional references to "bounded App (bApp)" / "bounded Apps (bApps)" are replaced with PeelPack language (12 references across 7 artifacts).
+- Glossary gains "PeelPack" and records "bApp (retired)".
+- Non-normative architecture guides are added (guides/architecture/), hash-pinned, explicitly labeled NON-NORMATIVE.
+
+Why:
+- Canon ruling by Peter Tittle (2026-11-03): "PeelPacks it is." The package metaphor reigns; the constitution must not refer to a retired noun.
+
+Classification:
+- MINOR. Clarifies language without changing meaning. The referenced class — a bounded, declared, non-executable capability delivered through participation — is unchanged. No declaration type is added or removed; no boundary is moved; no invariant touched.
+
+Constitutional invariants affected: none weakened.
+
+Hostile Reader Check (binary, all NO):
+- Implies inferred intent? NO
+- Enables push-based authority? NO
+- Blurs evaluation and execution? NO
+- Creates hidden gatekeeping? NO
+- Introduces automation of human judgment? NO

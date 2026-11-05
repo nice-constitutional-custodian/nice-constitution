@@ -133,7 +133,7 @@ Its role is to inspect, reconcile, and align declarations that have been explici
 
 The following declaration types are evaluated within this plane:
 	•	Participation Availability Declaration
-		Signals that a bounded capability (e.g., a bApp) is available for potential participation.
+		Signals that a bounded capability (e.g., a PeelPack) is available for potential participation.
 		Availability is declarative only; it does not grant permission, select recipients, or imply routing.
 	•	Participation Visibility Declaration
 		Constrains who may observe participation availability and under what conditions.

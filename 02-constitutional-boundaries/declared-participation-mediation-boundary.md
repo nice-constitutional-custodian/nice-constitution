@@ -56,7 +56,7 @@ Within this boundary, IX:
 	•	evaluates conformance against declared constraints,
 	•	determines eligibility across personas, Commons, and contexts,
 	•	reconciles compatible execution boundaries,
-	•	publishes declared availability of bounded Apps (bApps),
+	•	publishes declared availability of PeelPacks,
 	•	records receipts, attestations, and provenance artifacts.
 
 All actions are inspectable, auditable, and non-authoritative.
@@ -114,7 +114,7 @@ Matched across declarations without granting authority.
 Participation Availability Declaration
 
 Declares:
-	•	availability of a bounded App (bApp) for participation.
+	•	availability of a PeelPack for participation.
 
 This declaration:
 	•	makes availability visible,

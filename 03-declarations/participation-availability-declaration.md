@@ -5,7 +5,7 @@ Participation Availability Declaration (v0)
 
 Purpose
 
-The Participation Availability Declaration defines whether a bounded App (bApp) participation offering is open for consideration at a given moment.
+The Participation Availability Declaration defines whether a PeelPack participation offering is open for consideration at a given moment.
 
 It answers the question:
 
@@ -18,7 +18,7 @@ This declaration exists to support time-, capacity-, or state-dependent particip
 What This Declaration Declares
 
 A Participation Availability Declaration declares:
-	•	That a specific bApp participation offering is currently available
+	•	That a specific PeelPack participation offering is currently available
 	•	Any temporal, capacity, or state-based constraints on availability
 	•	Whether availability is:
 	•	Open-ended
@@ -88,7 +88,7 @@ Availability does not imply invitation.
 
 Example (Non-Normative)
 
-A Commons steward may declare that a research bApp:
+A Commons steward may declare that a research PeelPack:
 	•	Is available for participation
 	•	For the next 30 days
 	•	With a maximum of 500 participants

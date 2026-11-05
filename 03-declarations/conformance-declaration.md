@@ -89,7 +89,7 @@ Participants may reject a conformant implementation.
 
 Example (Non-Normative)
 
-A bApp implementation may declare that it:
+A PeelPack implementation may declare that it:
 	•	Conforms to a specific constitutional interface standard
 	•	Implements a declared role specification
 	•	Excludes certain optional features

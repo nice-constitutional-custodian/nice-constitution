@@ -5,7 +5,7 @@ Participation Visibility Declaration (v0)
 
 Purpose
 
-The Participation Visibility Declaration defines where, how, and under what conditions a bounded App (bApp) participation offering may be observed.
+The Participation Visibility Declaration defines where, how, and under what conditions a PeelPack participation offering may be observed.
 
 It answers the question:
 
@@ -18,7 +18,7 @@ This declaration exists to support discoverability without authority, enabling o
 What This Declaration Declares
 
 A Participation Visibility Declaration declares:
-	•	That a specific bApp participation offering is visible
+	•	That a specific PeelPack participation offering is visible
 	•	The channels, contexts, or scopes in which it may be observed
 	•	Any constraints on visibility, such as:
 	•	Audience scope
@@ -91,7 +91,7 @@ A participation offering may be visible and never acted upon.
 
 Example (Non-Normative)
 
-A Commons steward may declare that a research bApp:
+A Commons steward may declare that a research PeelPack:
 	•	Is visible within a specific Commons
 	•	Is discoverable by humans holding a declared role
 	•	Is listed in a shared registry or index
