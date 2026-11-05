@@ -54,3 +54,19 @@ Still queued (verified in this revision):
 Process note: commit 096e15d carried only the re-pinned PDF (a path slip interrupted the pptx/hashes/ledger writes); this entry completes the re-pin.
 
 Pinned now (working set):
+
+## VALIDATION PASS — Peter's second deck revision (2026-11-05 22:06/22:07) — RE-PIN #2
+
+Validated via text-diff against the prior pinned revision. All queue defects RESOLVED except one flagged question:
+- "Consititutional" → fixed; "Contitutional" → fixed.
+- "…execute Bounded Applications." → "…execute PeelPack Contents." (Peter's wording — capitalized Contents; note for later consistency check vs lowercase "contents" elsewhere)
+- "never executes Bounded Apps" → "never executes PeelPack contents."
+- "(TX)" → "(TIX)".
+- TIX slide bottom caption → "These implementation platforms realize TIX-MEDIATION constraints." (COMMONS slide keeps its one legitimate instance; count verified 1/1.)
+- Retained as ruled-keep: "Bounded Owner-Hosted Resources" ×2 (PERS-HARBOR) — verified still present, correctly untouched.
+
+OUTSTANDING (flagged, not blocking):
+- "Agents that knows their place." ×2 — grammar quirk queued earlier as typo; twice-instanced may indicate INTENT. Peter's ruling: keep as voice, or correct to "know"?
+- Minor consistency note for the image pass: "PeelPack Contents" (capitalized) vs "PeelPack contents" (lowercase) — one case-convention to pick.
+
+Deck queue is now CLEAN for the image pass.
