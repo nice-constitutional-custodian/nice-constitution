@@ -70,3 +70,7 @@ OUTSTANDING (flagged, not blocking):
 - Minor consistency note for the image pass: "PeelPack Contents" (capitalized) vs "PeelPack contents" (lowercase) — one case-convention to pick.
 
 Deck queue is now CLEAN for the image pass.
+
+## ADDENDUM — 'knows their place' ruled INTENTIONAL (2026-11-05, Peter)
+
+"Agents that knows their place." ×2 — RESOLVED as INTENTIONAL (Peter, 2026-11-05): doctrine ruling attached — The Lenses, in modern parlance, would typically be called "agents"; in implementation they are SpiralOS FACETS, not given agency; PERS-LENS / Sensemaking Assistance = a category of BOUNDED ASSISTANTS which will read like "agents" — with a decidedly different spin on what an agent is and how they mind their manners. The phrase stays as voice.
