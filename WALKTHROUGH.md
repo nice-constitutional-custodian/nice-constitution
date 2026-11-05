@@ -29,3 +29,11 @@ C. Envelope section-model's constitutional home (incl. remuneration terms).
 D. Maturity spectrum incorporation — shape TBD with Peter: new chapter vs constraint-level tags inside category trees + compilations; L1 NICE-adjacent status (constitution applies when?).
 E. Sustainability/resiliency wording check (08).
 F. Replacement images list (Peter knows in advance).
+
+## RULING A — IX → TIX, the Trusted Interchange (2026-11-05, Peter)
+
+- Ruling: TIX — **Trusted Interchange**. The X = the act of mutually giving and receiving (dictionary anchor: "the act of mutually changing; the act of mutually giving and receiving; exchange").
+- Namespace: `NICE-RS-TIX-*` / `NICE-IS-TIX-*` / `NICE-TIX-JOURNAL-*` replaces the `NICE-RS-IX-*` family. IX retires as a label prefix (cheap migration at stub stage).
+- Gloss guard (constitutional): the interchange is trusted-OF (participants attested), never trustING — it verifies and records; never vouches, never decides, never holds, never acts unilaterally.
+- Deck slide 12 ("IX - Bounded Apps Interchange"): top plane description + boxed MEDIATION line both carry copied COMMONS text — replaced per convention (text delivered 2026-11-05).
+- Constitution: TIX gloss + label enumeration enter with the next amendment family (post-v0.1.4 merge).
