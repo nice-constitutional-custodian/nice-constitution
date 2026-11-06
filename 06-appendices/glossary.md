@@ -143,6 +143,13 @@ Subordinate assistance never substitutes judgment or initiates action.
 
 ⸻
 
+TIX (Trusted Interchange)
+The Trusted Interchange of the NICE platform system: the mediation plane where attested estates mutually give and receive. Every crossing is verified and recorded. The interchange is trusted-of - participants attested - never trusting: it never vouches, decides, holds custody, or acts unilaterally.
+TIX-MEDIATION
+The singular mediation boundary of the TIX. It verifies declared envelopes, reconciles eligibility, and attests crossings - publishing outcomes to the journal without executing, governing, originating authority, or holding custody.
+
+⌻
+
 Trust Boundary
 A constitutional or platform boundary where enforcement occurs without authority origination.
 
