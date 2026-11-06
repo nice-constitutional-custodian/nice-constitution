@@ -82,3 +82,10 @@ Peter clarifies: the singular/plural mix was NOT intentional (the prior entry's 
 ## AMENDMENT FAMILY 2 drafted - v0.1.5 (TIX gloss + enumeration + anchors), 2026-11-05
 
 Branch amendment/0.1.5-tix-gloss-enumeration. Contents: glossary TIX/TIX-MEDIATION; enumerated labels (18 RS + 20 IS = 38); anchor-slug convention + five seed anchors; CHANGELOG v0.1.5 (MINOR, hostile-reader all NO). Merges as its own PR after v0.1.4 ratifies.
+
+## RATIFICATION — v0.1.4 merged (2026-11-06 verified)
+
+- Merged via PR #1 onto protected main (4db1839), maintainer approval: Peter Tittle (approving review from a new write-access user = the documented-review ceremony, satisfied).
+- Tag v0.1.4 pushed at the merge commit.
+- Ceremony state-note: repo-access quirk (owner effectively at write-level; base permissions 'write'); lesson banked: maintainer-of-record + reviewer identities = amendment-ceremony facts to record.
+- Amendment family 2 rebased onto ratified main; PR 2 = v0.1.5 delta only.
