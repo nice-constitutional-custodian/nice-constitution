@@ -124,6 +124,13 @@ A replaceable implementation that enforces constitutional constraints without ow
 
 ⸻
 
+PeelPack
+The unit of software delivery in NICE: a peelable package consisting of a non-executable, inspectable envelope and its contents. Participation offerings ride in PeelPacks; contents are verified on custody read; unwrapping is receipted.
+bApp (retired)
+Former name of the bounded-capability package noun. Replaced by PeelPack as of v0.1.4. Historical occurrences in frozen design documents stand as history.
+
+⌻
+
 Sensemaking
 The human process of interpreting meaning, context, and implications.
 In NICE, systems may assist sensemaking but may not perform it autonomously.

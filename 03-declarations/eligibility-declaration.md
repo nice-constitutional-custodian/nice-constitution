@@ -92,7 +92,7 @@ A participant may be eligible and still choose not to participate.
 
 Example (Non-Normative)
 
-A Commons may declare that a data-sharing bApp:
+A Commons may declare that a data-sharing PeelPack:
 	•	Requires a specific role (e.g., Steward)
 	•	Requires possession of a credential
 	•	Excludes certain jurisdictions

@@ -98,7 +98,7 @@ Accountability exists without centralized enforcement.
 
 Example (Non-Normative)
 
-After a data-sharing bApp completes a participation cycle, a declaration may record:
+After a data-sharing PeelPack completes a participation cycle, a declaration may record:
 	•	The declared scope of participation
 	•	The actions that occurred
 	•	Timestamps and references
